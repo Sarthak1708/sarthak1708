@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak1708" alt="sarthak1708" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Scikit-Learn**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **sarthakpatel1708@gmail.com**
 
